@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 
-console.log(chalk.blue('vamos começar!'));
+console.log(chalk.blue('vamos começar! modificado2222'));
 
 const paragrafo = 'Texto retornado por uma função';
 
